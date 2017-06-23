@@ -1,0 +1,7 @@
+<Settings>
+    <Server>
+        <logging>true</logging>
+        <port>8989</port>
+        <logpath>./log</logpath>
+    </Server>
+</Settings>

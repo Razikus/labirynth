@@ -1,0 +1,7 @@
+labyrinth.client.configuration
+labyrinth.client.serverclient
+labyrinth.control
+labyrinth.game
+labyrinth.gui
+labyrinth.gui.menu
+labyrinth.server.serialization

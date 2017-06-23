@@ -1,0 +1,9 @@
+#!/bin/bash
+
+files=$(find . -name '*.class')
+
+for file in $files
+do
+    rm $file
+done
+
