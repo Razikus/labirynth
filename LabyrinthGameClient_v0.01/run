@@ -1,0 +1,1 @@
+docker run --rm -e LABSERVERIP=localhost -e LABSERVERPORT=8989 -v /home/adam/repos/labirynth/LabyrinthGameClient_v0.01/compiled:/compiled razikus/labirynthclient
